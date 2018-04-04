@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1519484182 source:d:\SimpleMiner\utils.cpp
+	"Utils.h"
+
+1519484176 d:\SimpleMiner\utils.h
+	"../ziplib/unzip.cpp"
+	<strings.h>
+	<windows.h>
+	<iostream>
+	<winsock2.h>
+	<Wininet.h>
+
+1507902245 d:\SimpleMiner\ziplib\unzip.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<tchar.h>
+	"unzip.h"
+
+1519484501 d:\SimpleMiner\ziplib\unzip.h
+	<windows.h>
+
+1519484471 source:SimpleMiner\main.cpp
+	<string.h>
+	<strings.h>
+	<string>
+	<math.h>
+	<windows.h>
+	<tlhelp32.h>
+	<commctrl.h>
+	<Shlwapi.h>
+	<shellapi.h>
+	<Shlobj.h>
+	<stdlib.h>
+	"Utils.h"
+
+1519484542 d:\SimpleMiner\utils.h
+	"ziplib/unzip.h"
+	<strings.h>
+	<windows.h>
+	<iostream>
+	<winsock2.h>
+	<windows.h>
+	<Wininet.h>
+
+1519484517 source:d:\SimpleMiner\utils.cpp
+	"Utils.h"
+
+1507902245 source:d:\SimpleMiner\ziplib\unzip.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<tchar.h>
+	"unzip.h"
+
+1497605804 source:d:\SimpleMiner\ziplib\zip.cpp
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	"zip.h"
+
+1497605804 d:\SimpleMiner\ziplib\zip.h
+
